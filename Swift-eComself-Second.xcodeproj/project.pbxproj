@@ -14,6 +14,7 @@
 		18075DDF2BB1D974008789D5 /* Swift_eComself_Second.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18075DDD2BB1D974008789D5 /* Swift_eComself_Second.xcdatamodeld */; };
 		18075DE12BB1D975008789D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18075DE02BB1D975008789D5 /* Assets.xcassets */; };
 		18075DE42BB1D975008789D5 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 18075DE32BB1D975008789D5 /* Base */; };
+		18075DEC2BB1E2D7008789D5 /* NetworkHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18075DEB2BB1E2D7008789D5 /* NetworkHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		18075DE02BB1D975008789D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18075DE32BB1D975008789D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18075DE52BB1D975008789D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18075DEB2BB1E2D7008789D5 /* NetworkHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				18075DE22BB1D975008789D5 /* LaunchScreen.storyboard */,
 				18075DE52BB1D975008789D5 /* Info.plist */,
 				18075DDD2BB1D974008789D5 /* Swift_eComself_Second.xcdatamodeld */,
+				18075DEB2BB1E2D7008789D5 /* NetworkHelper.swift */,
 			);
 			path = "Swift-eComself-Second";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				18075DD92BB1D974008789D5 /* ViewController.swift in Sources */,
 				18075DD52BB1D974008789D5 /* AppDelegate.swift in Sources */,
+				18075DEC2BB1E2D7008789D5 /* NetworkHelper.swift in Sources */,
 				18075DD72BB1D974008789D5 /* SceneDelegate.swift in Sources */,
 				18075DDF2BB1D974008789D5 /* Swift_eComself_Second.xcdatamodeld in Sources */,
 			);
